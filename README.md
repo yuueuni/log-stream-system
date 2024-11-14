@@ -1,7 +1,5 @@
 # Log Stream System
 
----
-
 **Log Stream System**는 다양한 애플리케이션과 시스템에서 생성되는 로그 데이터를 실시간으로 수집, 처리, 저장하고 분석할 수 있는 로그 수집 서비스입니다. 시스템 모니터링, 오류 탐지, 사용자 활동 분석 등의 기능을 제공하여 효율적이고 신속한 운영을 지원합니다.
 
 **Log Stream System** is a comprehensive log collection service that enables real-time collection, processing, storage, and analysis of log data from various applications and systems. It provides capabilities for system monitoring, error detection, and user activity analysis, helping ensure efficient and rapid operations.
